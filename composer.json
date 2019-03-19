@@ -1,0 +1,9 @@
+{
+    "name": "kamagan/fpdf_example",
+    "description": "FPDF example",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0",
+        "setasign/fpdf": "^1.8"
+    }
+}
